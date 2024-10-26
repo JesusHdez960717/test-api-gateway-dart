@@ -1,0 +1,9 @@
+name: api_gateway
+description: A server app using winter framework
+version: 0.0.1
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  winter: ^0.0.6
